@@ -4,5 +4,5 @@ A simple React app to toggle visibility of text using a button.
 
 ## 📸 Screenshot
 
-![App Screenshot](src/assests/screenshot.png)
+![App Screenshot](src/assets/Screenshot.png)
 
